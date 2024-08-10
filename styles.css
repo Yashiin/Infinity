@@ -35,6 +35,8 @@ div{
 
 img {
     height: 200px;
+    opacity: 0.5;
+    height: 200px;
   }
 
 .Kamikaze {
@@ -45,4 +47,10 @@ img {
 .Boku{
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  img:hover {
+    opacity: 1.0;
+    border: 3px solid rgb(40, 72, 107);
+
   }
