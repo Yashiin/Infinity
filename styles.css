@@ -1,0 +1,48 @@
+body {
+
+    color: rgb(93, 197, 162);
+    background: rgb(26, 25, 25);
+    margin: 0px;
+    font-family: "Edu Australia VIC WA NT Hand", sans-serif;
+}
+
+header{
+
+    border-bottom: solid 2px rgb(114, 28, 28) ;
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(43, 100, 92);
+}
+
+.rei{
+
+    background: rgb(151, 126, 126);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div{
+
+    margin-right: 20px;
+
+}
+
+.chamada-texto{
+    margin-right:  5%;;
+}
+
+img {
+    height: 200px;
+  }
+
+.Kamikaze {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+.Boku{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
